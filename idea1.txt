@@ -15,3 +15,4 @@ All three frameworks can be implemented as mobile first application.
 Idea 2:
 We can also work on voice activated Payments using Alexa API and Capital One API.
 Problem with this is voice recognition. Also most people have automated payments setup but urgent or immediate payments can be controlled by this. 
+We can do some brainstorming during the first hour and then agree on what is feasible and what can be implemented.

@@ -1,9 +1,17 @@
 We can create phone application using Rewards API.
 The application UI can be designed using Sencha Touch/Phone Gap/ Ionic Framework.
-All three frameworks can be implemeted as mobile first application.
+All three frameworks can be implemented as mobile first application.
 
 --------------------------------------------------------------------------------------------------
 1. Decide on what application will do which is not already implemented on rewards API side.
 2. connecting the Models of the application towards the API to fetach the data.
 3. Implement controller to connect model with view.
 4. Implement view. (HTML | CSS3 (Material) | Angular 1x)
+
+
+
+
+
+Idea 2:
+We can also work on voice activated Payments using Alexa API and Capital One API.
+Problem with this is voice recognition. Also most people have automated payments setup but urgent or immediate payments can be controlled by this. 

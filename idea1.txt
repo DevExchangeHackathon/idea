@@ -33,3 +33,6 @@ Idea 4:
 Mock a travelagent or online vendor website and Amazon Alexa to integrate with Capital One Rewards API for info, payments
 Use Case: As an user of an OTA or online vendor, I want to be able to view and use my credit card rewards before and during purchase.
 Technologies: NODE.js, JS, HTML/CSS, alexa
+
+Idea 5: 
+

@@ -28,3 +28,8 @@ The first part of the idea would be our main goal and the second part would be o
 
 All driven from Alexa as the voice activation driver.
 
+
+Idea 4:
+Mock a travelagent or online vendor to integrate with Capital One Rewards API for info, payments
+Use Case: As an user of an OTA or online vendor, I want to be able to view and use my credit card rewards before and during purchase.
+Technologies:

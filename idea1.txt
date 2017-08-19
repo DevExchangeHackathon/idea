@@ -16,3 +16,11 @@ Idea 2:
 We can also work on voice activated Payments using Alexa API and Capital One API.
 Problem with this is voice recognition. Also most people have automated payments setup but urgent or immediate payments can be controlled by this. 
 We can do some brainstorming during the first hour and then agree on what is feasible and what can be implemented.
+
+Idea 3: 
+Integrate a voice activated Travel Itinerary application (viewtrip.travelport.com) which can view an itinerary and report your rewards values for the air carriers.  Secondly it can, socialize a trip list, letting the user pick a trip list and socialize a set of excusion opportnities and the ask if the user would like to view Credit Card offers to help fund their vacation.  It would email a link to a web responsive application that we would write that would provide a list of credit offerings.
+
+The first part of the idea would be our main goal and the second part would be our stretch goal.
+
+All driven from Alexa as the voice activation driver.
+
